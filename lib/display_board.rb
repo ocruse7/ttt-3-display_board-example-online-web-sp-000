@@ -1,3 +1,7 @@
-def display_board()
-  puts "   |   |    \n-----------\n   |   |    \n-----------\n   |   |    "
+def display_board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
